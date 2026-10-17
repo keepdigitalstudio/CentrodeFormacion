@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://centrodeinvestigacionforense.com.ar/sitemap.xml
+Sitemap: https://www.centrodeinvestigacionforense.com.ar/sitemap.xml
